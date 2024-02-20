@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![js](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![js](https://img.shields.io/badge/Mysql-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![js](https://img.shields.io/badge/Oracle-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+
+
 
 
 
