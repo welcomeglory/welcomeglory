@@ -1,5 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F9D9CA&height=150&section=header&text=WELCOME&fontSize=70" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F0E4D4&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F1BCAE&height=150&section=header&text=WELCOME&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F5DDAD&height=150&section=footer" />
 
 🚀 Skills<br>
 ![js](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=JavaScript&logoColor=white)
