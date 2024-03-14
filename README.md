@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F1BCAE&height=150&section=header&text=WELCOME&fontSize=70" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F5DDAD&height=150&section=footer" />
+<img src="https://images.unsplash.com/photo-1612892483236-52d32a0e0ac1?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />
 <div align="center">
   
 🚀 Full Stack <br/><br/>
