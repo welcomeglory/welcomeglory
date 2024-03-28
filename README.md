@@ -3,7 +3,9 @@
   
 <h1>🚀 Full Stack</h1> 
 
-![js](https://img.shields.io/badge/Java-0064CD?style=flat-square&logo=Java&logoColor=white)
+![js](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white)
+
+
 ![js](https://img.shields.io/badge/Mysql-5a9e6f?style=for-the-badge&logo=Mysql&logoColor=white)
 ![js](https://img.shields.io/badge/Oracle-f4de9a?style=for-the-badge&logo=Oracle&logoColor=white)
 <br>
