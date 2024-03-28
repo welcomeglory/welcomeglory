@@ -3,9 +3,9 @@
   
 <h1>🚀 Full Stack</h1> 
 
-![js](https://img.shields.io/badge/Java-ff3399?style=for-the-badge&logo=JavaScript&logoColor=white)
-![js](https://img.shields.io/badge/Mysql-5a9e6f?style=for-the-badge&logo=JavaScript&logoColor=white)
-![js](https://img.shields.io/badge/Oracle-f4de9a?style=for-the-badge&logo=JavaScript&logoColor=white)
+![js](https://img.shields.io/badge/Java-ff3399?style=for-the-badge&logo=Java&logoColor=white)
+![js](https://img.shields.io/badge/Mysql-5a9e6f?style=for-the-badge&logo=Mysql&logoColor=white)
+![js](https://img.shields.io/badge/Oracle-f4de9a?style=for-the-badge&logo=Oracle&logoColor=white)
 <br>
 ![js](https://img.shields.io/badge/HTML-82b8d9?style=for-the-badge&logo=html5&logoColor=white)
 ![js](https://img.shields.io/badge/CSS-d94c4c?&style=for-the-badge&logo=css3&logoColor=white)
