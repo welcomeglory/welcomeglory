@@ -17,7 +17,7 @@
 
 ![js](https://img.shields.io/badge/Eclipse-f3e5ab?style=for-the-badge&logo=eclipse&logoColor=white)
 ![js](https://img.shields.io/badge/IntelliJ_IDEA-ff8c69.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![js](https://img.shields.io/badge/Visual_Studio_Code-905d5d?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![js](https://img.shields.io/badge/Visual_Studio_Code-0000ff?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 <br/><br/><br/><br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=welcomeglory)](https://github.com/anuraghazra/github-readme-stats)
 </div>
