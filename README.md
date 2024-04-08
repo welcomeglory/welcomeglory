@@ -14,7 +14,7 @@
 ![js](https://img.shields.io/badge/JavaScript-fda026?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![js](https://img.shields.io/badge/TypeScript-ffff66?style=for-the-badge&logo=typescript&logoColor=white)
 ![js](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
-![js](https://img.shields.io/badge/springboot-ffff66?style=for-the-badge&logo=springboot&logoColor=white)
+![js](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 <h1>👩‍💻 IDE</h1> 
 
