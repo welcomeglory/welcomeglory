@@ -9,8 +9,11 @@
 ![js](https://img.shields.io/badge/Mysql-5a9e6f?style=for-the-badge&logo=Mysql&logoColor=white)
 ![js](https://img.shields.io/badge/Oracle-f4de9a?style=for-the-badge&logo=Oracle&logoColor=white)
 <br>
-![js](https://img.shields.io/badge/HTML-82b8d9?style=for-the-badge&logo=html5&logoColor=white)
+![js](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![js](https://img.shields.io/badge/CSS-d94c4c?&style=for-the-badge&logo=css3&logoColor=white)
+![js](https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![js](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<br>
 ![js](https://img.shields.io/badge/JavaScript-fda026?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![js](https://img.shields.io/badge/TypeScript-ffff66?style=for-the-badge&logo=typescript&logoColor=white)
 ![js](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
