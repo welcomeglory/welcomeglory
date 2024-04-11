@@ -16,7 +16,7 @@
 <br>
 
 ![js](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![js](https://img.shields.io/badge/TypeScript-ffff66?style=for-the-badge&logo=typescript&logoColor=white)
+![js](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 <h1>👩‍💻 IDE</h1> 
 
