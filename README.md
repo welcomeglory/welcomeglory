@@ -22,7 +22,7 @@
 
 ![js](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 ![js](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![js](https://img.shields.io/badge/ApacheTomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black)
+![js](https://img.shields.io/badge/ApacheTomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white)
 
 
 
