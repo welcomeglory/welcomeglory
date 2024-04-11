@@ -22,12 +22,14 @@
 
 ![js](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 ![js](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![js](https://img.shields.io/badge/angular.js-DD0031?style=flat-square&logo=angularjs&logoColor=white)
+
 
 <h1>👩‍💻 IDE</h1> 
 
 ![js](https://img.shields.io/badge/Eclipse-f3e5ab?style=for-the-badge&logo=eclipse&logoColor=white)
 ![js](https://img.shields.io/badge/IntelliJ_IDEA-ff8c69.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![js](https://img.shields.io/badge/Visual_Studio_Code-0000ff?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![js](https://img.shields.io/badge/Visual_Studio_Code-5C2D91?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 <br/><br/><br/><br/>
 
 
