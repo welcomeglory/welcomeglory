@@ -28,11 +28,10 @@
 
 <h1>👩‍💻 IDE</h1> 
 
-![js](https://img.shields.io/badge/Eclipse-f3e5ab?style=for-the-badge&logo=eclipse&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 
 ![js](https://img.shields.io/badge/IntelliJ_IDEA-ff8c69.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![js](https://img.shields.io/badge/Visual_Studio_Code-5C2D91?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 <br/><br/><br/><br/>
 
 
