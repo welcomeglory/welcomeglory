@@ -17,7 +17,6 @@
 ![js](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 <br>
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="43" height="43" />
-
 ![js](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 <br>
