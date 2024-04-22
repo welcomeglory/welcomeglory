@@ -22,8 +22,8 @@
 ![js](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 <br>
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="43" height="43" />
 
-![js](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 ![js](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![js](https://img.shields.io/badge/ApacheTomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white)
 
