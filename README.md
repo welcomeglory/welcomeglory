@@ -3,7 +3,7 @@
   
 <h1>🚀 Full Stack</h1> 
 
-<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="43" height="43" />
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="60" height="60" />
 
 ![js](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
 ![js](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -14,15 +14,15 @@
 ![js](https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 <br>
 ![js](https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="43" height="43" />
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="60" height="60" />
 
 <br>
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="43" height="43" />
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="60" height="60" />
 
 ![js](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 <br>
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="43" height="43" />
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="60" height="60" />
 
 ![js](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![js](https://img.shields.io/badge/ApacheTomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white)
