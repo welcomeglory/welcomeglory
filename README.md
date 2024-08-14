@@ -9,10 +9,13 @@
 ![js](https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=css3&logoColor=white)
 ![js](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+
 <br>
+
 ![js](https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![js](https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![js](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
 <br>
 <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="60" height="60" />
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="60" height="60" />
